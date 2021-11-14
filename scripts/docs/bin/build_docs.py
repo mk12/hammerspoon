@@ -1,4 +1,4 @@
-#!/usr/bin/env -S -P/usr/bin:${PATH} python3
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """Hammerspoon API Documentation Builder"""
 

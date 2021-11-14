@@ -1,6 +1,7 @@
 @import Cocoa;
 @import Darwin.POSIX.sys.time;
 #import <LuaSkin/LuaSkin.h>
+#import <MyLilTimer/MyLilTimer.h>
 
 // Common Code
 
